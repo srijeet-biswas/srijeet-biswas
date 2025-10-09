@@ -40,7 +40,7 @@ I'm a passionate Software Engineer from India, with a love for building innovati
 </p>
 
 ---
-## 🚀 My Recent GitHub Activity
+### 🚀 My Recent GitHub Activity
 ---
 ## 🏆 GitHub Trophies
 
