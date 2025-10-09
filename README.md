@@ -53,12 +53,15 @@ I'm a passionate Software Engineer from India, with a love for building innovati
 
 <p align="center">
   <a href="https://www.srijeetbiswas.in">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-3B3B3B?style=flat&logo=Kaufland&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/srijeet-biswas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/biswas_srijeet">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:srijeetbiswas@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
