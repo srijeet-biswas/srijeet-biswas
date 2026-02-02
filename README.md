@@ -1,68 +1,62 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/srijeet-biswas/srijeet-biswas/main/banner.gif" alt="Srijeet Biswas - Software Engineer Banner">
-</p>
+# 👋 Hi, I'm Srijeet Biswas
 
-<table align="center">
-<tr>
-<td valign="top" width="60%">
+🎯 Senior Software Engineer | Full-Stack Developer | Open-Source Enthusiast  
+🌐 Building impactful web apps and learning backend & system design
 
-### **Hi there, I'm Srijeet Biswas 👋**
-
-I'm a passionate Software Engineer from India, with a love for building innovative web applications and exploring new technologies. My goal is to create software that is not only functional but also provides a great user experience.
-
-- 🔭 &nbsp; I’m currently working on a full-stack e-commerce platform.
-- 🌱 &nbsp; I’m currently learning **Go (Golang)** and **System Design**.
-- 👯 &nbsp; I’m open to collaborating on interesting open-source projects.
-- 💬 &nbsp; Ask me about **React, Node.js, and JavaScript**.
-- 📫 &nbsp; How to reach me: [srijeetbiswas.in](https://www.srijeetbiswas.in)
-- ⚡ &nbsp; Fun fact: I can solve a Rubik's Cube in under a minute!
-
-</td>
-<td valign="top" width="40%">
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srijeet-biswas&show_icons=true&locale=en&theme=dracula&hide_border=true&count_private=true" alt="srijeet-biswas's github stats" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijeet-biswas&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="srijeet-biswas's top languages" />
-</p>
-
-</td>
-</tr>
-</table>
+🔗 Visit my website: https://srijeet.in
 
 ---
-## 🛠️ My Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,postgres,docker,aws,git,figma&perline=8" />
-  </a>
-</p>
+## 🚀 About Me
 
----
-### 🚀 My Recent GitHub Activity
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=srijeet-biswas&theme=dracula&row=1&column=7&margin-w=15&margin-h=15" alt="srijeet-biswas's trophies" />
-</p>
+- 💼 I build scalable web applications with clean code and best practices.
+- 💡 Passionate about problem solving, performance, and UX.
+- 📘 Currently expanding skills in **Go (Golang)**, **Cloud Architecture**, and **Distributed Systems**.
+- 🤝 Open to **collaboration, freelance, and mentorship opportunities**.
 
 ---
-## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.srijeetbiswas.in">
-    <img src="https://img.shields.io/badge/Portfolio-3B3B3B?style=flat&logo=Kaufland&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/srijeet-biswas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/biswas_srijeet">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:srijeetbiswas@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🧠 *Full-Stack Web Apps*
+- **`ecommerce-platform`** – A full-featured e-commerce system (React + Node + MongoDB).  
+  _Features:_ Auth, product catalog, shopping cart, admin dashboard.
+
+- **`js_game`** – A fun interactive tennis game built in HTML & JS.  
+  _Showcases:_ Canvas, animations, game logic.
+
+### 📄 *Utilities & Web Tools*
+- **`pwa_1`** – Progressive Web App demo with offline support.  
+- **`php`** – Simple CRUD app in modern PHP style.
+
+<!-- Add more like this, show screenshots, live links if available -->
+
+---
+
+## 📊 GitHub Stats
+
+![Srijeet’s GitHub Stats](https://srijeet-git-stats.vercel.app/api?username=srijeet-biswas&show_icons=true&theme=radical)  
+![Top Languages](https://srijeet-git-stats.vercel.app/api/top-langs/?username=srijeet-biswas&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let’s Connect
+
+📫 Email: yourname@domain.com  
+🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin  
+🐦 Twitter: https://twitter.com/biswas_srijeet  
+🌐 Website: https://srijeet.in
+
+> 💼 Always open to open-source contributions, mentoring, and meaningful collaborations!
